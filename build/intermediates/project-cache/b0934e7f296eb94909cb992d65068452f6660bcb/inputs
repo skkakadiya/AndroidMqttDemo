@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/sanjay/Desktop/MQTTDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=e3a023e361b48b127d211b90cd686909a258dbe9
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
